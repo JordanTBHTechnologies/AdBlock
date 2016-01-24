@@ -1,0 +1,31 @@
+[Adblock Plus 2.0]
+! Title: JordanTBH Technologies Defaults
+! Author: JordanTBH Technologies | http://jordantbh.me
+! Version: 2401160339
+! Expires: 4 days (update frequency)
+! Last modified: 24 Jan 2016 03:39 GMT
+! Homepage: http://filters.files.techmania-hosts.com/#!/Home
+! Licence: http://filters.files.techmania-hosts.com/#!/COPYING
+!
+! Please report any unblocked adverts or problems on the forums.
+! Need help? http://contact.jordantbh.me
+!----------------------------------------------------------------------------------------------------!
+! Don't Block Resources On Trusted Domains
+!----------------------------------------------------------------------------------------------------!
+@@||techmania-hosts.com/$document
+@@||jordantbh.me/$document
+@@||shorttbh.com/$document
+@@||tbhh.co/$document
+@@||30dns.net/$document
+@@||tmhnetwork.com/$document
+@@||wanted-home.co.uk/$document
+@@||couzens.me/$document
+@@||jordancouzens.me/$document
+@@||xlvirtualuk.co.uk/$document
+@@||geo.30dns.net/$document
+@@||thehabboimager.30dns.net/$document
+@@||30dns.net/$document
+@@||uploadme.me/$document
+@@||upload2.us/$document
+@@||tbhtech.info/$document
+@@||peafowl.co/$document
