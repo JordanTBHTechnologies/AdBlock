@@ -92,6 +92,9 @@ See? No nasty susprises! We only allow approved domains, for example like in our
 ### Version
 v1.0.04g (r1)
 
+Listings crossed out with a strikethrough (~~example~~) are domains that were approved but have since expired, sold or just no longer available. We remove them incase someone else registers the domain and then uses it for ads.
+
+
 **[Subscrible and support us] free, hell yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
