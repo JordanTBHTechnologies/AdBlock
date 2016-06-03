@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: JordanTBH Technologies Defaults
 ! Author: JordanTBH Technologies | http://jordantbh.me
-! Version: 2204162004
+! Version: 0306162346
 ! Expires: 4 days (update frequency)
-! Last modified: 22 April 2016 20:04 BST
+! Last modified: 03 June 2016 23:46 BST
 ! Homepage: http://filters.files.techmania-hosts.com/#!/Home
 ! Licence: http://filters.files.techmania-hosts.com/#!/COPYING
 !
@@ -29,3 +29,4 @@
 @@||upload2.us/$document
 @@||tbhtech.info/$document
 @@||peafowl.co/$document
+@@||itv.com/hub/$document
