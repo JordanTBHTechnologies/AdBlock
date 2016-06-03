@@ -66,6 +66,10 @@ Explanations - the act or process of explaining! We believe no secrects or hidde
   
 > We host some of our other content on this domain (i.e GTA V Jobs, Knowledgebase ect).
 
+  -  itv.com/hub
+  
+> We have added ITV Hub (Player) to the filter as it's a requirement to view ITV Hub content with Adblock.
+
 
 
 See? No nasty susprises! We only allow approved domains, for example like in our [search results].
@@ -88,9 +92,10 @@ See? No nasty susprises! We only allow approved domains, for example like in our
 | upload2.us               | Our free online image hosting and sharing site - free for everyone! |
 | tbhtech.info             | We host some of our other content on this domain. |
 | peafowl.co               | We host some of our other content on this domain (i.e GTA V Jobs, Knowledgebase ect). |
+| itv.com/hub              | We have added ITV Hub (Player) to the filter as it's a requirement to view ITV Hub content with Adblock. |
 
 ### Version
-v1.0.04g (r1)
+v1.0.04g (r2)
 
 Listings crossed out with a strikethrough (~~example~~) are domains that were approved but have since expired, sold or just no longer available. We remove them incase someone else registers the domain and then uses it for ads.
 
