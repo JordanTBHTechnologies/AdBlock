@@ -28,3 +28,5 @@
 @@||tbhtech.info/$document
 @@||peafowl.co/$document
 @@||itv.com/hub/$document
+@@||upload2.us/$document
+@@||uploadme.me/$document
