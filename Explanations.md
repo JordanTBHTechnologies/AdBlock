@@ -95,7 +95,7 @@ See? No nasty susprises! We only allow approved domains, for example like in our
 | itv.com/hub              | We have added ITV Hub (Player) to the filter as it's a requirement to view ITV Hub content with Adblock. |
 
 ### Version
-v1.0.04g (r2)
+v1.0.05g (r2)
 
 Listings crossed out with a strikethrough (~~example~~) are domains that were approved but have since expired, sold or just no longer available. We remove them incase someone else registers the domain and then uses it for ads.
 
