@@ -1,6 +1,6 @@
 JordanTBHTechnologies - Adblock Filter
 ------
-If you're unable to make a donation to any of our products and/or services you can still support us for free by disabling your Adblock software on our [Network (Explanations)][1]. It's simple and takes just a few seconds at a click of a button!
+If you're unable to make a donation to any of our products and/or services you can still support us for free by disabling your Adblock software on our [network (See explanations)][1]. It's simple and takes just a few seconds at a click of a button!
 
 
 #### One Click Subscribe
